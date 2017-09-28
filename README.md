@@ -1,4 +1,6 @@
-# minesweeper
+# minesweeper clone
+###language: Java
+
 What I learned:
   * Action Listeners
   * Algorithm potentials
