@@ -1,12 +1,6 @@
 /*----------------------------------------------------------------------------*
 	Program:  MineSweeper
 	Author:   sanshumor
-	Info:     Doesn't compile; see Issue 2.
-	Current Issues: 
-		1. game logic
-			(random mine placement, unveil tiles, nearby mines)
-		2. setting the "mode", variable gameboard size
-
  *----------------------------------------------------------------------------*/
 
 import java.util.*;
