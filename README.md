@@ -1,5 +1,5 @@
 # minesweeper clone
-###language: Java
+language: Java
 
 What I learned:
   * Action Listeners
